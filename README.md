@@ -25,3 +25,6 @@ How about background?
 4.Background and Foreground
 5.Upload background
   ~Done~
+  
+  
+  *If u don't want see at Google, press Code and Download ZIP
