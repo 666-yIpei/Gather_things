@@ -22,7 +22,7 @@ How about background?
 
 
 
-1.Create a new space (Need a Start From Strach space or u have a blank space)
+1.Create a new space (Need a Start From Scratch space or u have a blank space)
 2.Go to mapmaker
 3.More (Three lines)
 4.Background and Foreground
