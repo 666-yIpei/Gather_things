@@ -1,5 +1,5 @@
 # Gather_things
-Things u need to upload at gather, and u need to save these image too
+Things u can to upload at gather, and u need to save these image too
 
 
 How to upload?
