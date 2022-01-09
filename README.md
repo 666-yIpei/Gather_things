@@ -10,7 +10,10 @@ How to upload?
 3.More objects
 4.Upload new
 5.Choose your image
-  ~Done~
+  
+  
+  
+  Done
   
 
 
@@ -24,7 +27,10 @@ How about background?
 3.More (Three lines)
 4.Background and Foreground
 5.Upload background
-  ~Done~
+  
+  
+  
+  Done
   
   
   *If u don't want see at Google, press Code and Download ZIP
