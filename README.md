@@ -18,7 +18,7 @@ How to upload?
 
 
 
-How about background?
+How about background and foreground?
 
 
 
@@ -26,7 +26,7 @@ How about background?
 2.Go to mapmaker
 3.More (Three lines)
 4.Background and Foreground
-5.Upload background
+5.Upload background or upload foreground
   
   
   
